@@ -13,4 +13,4 @@ click [here](https://github.com/CyC2018/CS-Notes"reference") <br>
 
 > ## third 
 Let's try some picture.<br>
-![](https://github.com/IsTheBestLanguage/aNewTry/blob/master/海景壁纸.jpg)<br>
+![image](https://github.com/IsTheBestLanguage/aNewTry/blob/master/bysea.jpg)
